@@ -1,2 +1,2 @@
 # Masters-Thesis
-### Praca Magisterska ###
+It was written in Polish, see PDF.
