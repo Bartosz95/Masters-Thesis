@@ -1,8 +1,7 @@
 
-# Traffic Sign Recognition
+# Traffic Sign Recognition System
 
 # Abstract 
-TSR is an acronym for Traffic Sign Recognition.
 Systems like that help drivers while riding in a car.
 In this project I created one of my own and tried to improve him.
 This war was more focusing on exploration and investigation of how to find the best setup.
