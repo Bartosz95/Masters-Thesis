@@ -1,5 +1,5 @@
 
-# TSR System
+# Traffic Sign Recognition
 
 # Abstract 
 TSR is an acronym for Traffic Sign Recognition.
